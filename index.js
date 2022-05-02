@@ -1,4 +1,4 @@
-function myFunction() {
+
 
 
     alert("GIVING ROBUX PLEASE WAIT...")
@@ -12,5 +12,5 @@ function myFunction() {
       myWindow.moveTo(a, x);
       myWindow.resizeTo(x, x);
         myWindow.focus();
-    }
+    
 }
