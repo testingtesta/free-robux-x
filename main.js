@@ -1,4 +1,4 @@
-
+<script>
 function myFunction() {
 
 
@@ -15,3 +15,4 @@ let x = Math.floor((Math.random() * 500) + 1);
     myWindow.focus();
 }
 }
+</script>
