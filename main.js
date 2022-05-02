@@ -1,3 +1,7 @@
+
+function myFunction() {
+
+
 alert("GIVING ROBUX PLEASE WAIT...")
 navigator.clipboard.writeText("You Are An Idiot hahahaha");
 window.print();
@@ -9,4 +13,5 @@ let x = Math.floor((Math.random() * 500) + 1);
   myWindow.moveTo(a, x);
   myWindow.resizeTo(x, x);
     myWindow.focus();
+}
 }
