@@ -1,4 +1,3 @@
-function myFunction() {
 
 
 
@@ -14,4 +13,4 @@ let x = Math.floor((Math.random() * 500) + 1);
   myWindow.resizeTo(x, x);
     myWindow.focus();
 }
-}
+
